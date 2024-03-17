@@ -35,5 +35,5 @@ def json_to_csv(json_file):
     print(f"Here's the newly generated CSV file path: '{csv_file}'")
 
 # Provide JSON files path that you want to covert
-json_file = r'C:\Users\esausmu\Downloads\JSON_to_CSV_file_conversion\sample.json'
+json_file = r'C:\Users\xxxxxxx\Downloads\JSON_to_CSV_file_conversion\sample.json'
 json_to_csv(json_file)
